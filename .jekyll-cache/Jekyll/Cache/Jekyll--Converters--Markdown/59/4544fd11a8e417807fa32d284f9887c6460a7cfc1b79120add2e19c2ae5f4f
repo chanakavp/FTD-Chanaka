@@ -1,0 +1,16 @@
+I"�<h2 id="create-an-external-link">Create an external link</h2>
+
+<p>When linking to an external site, use Markdown formatting because it’s simplest:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[Google](http://google.com)
+</code></pre></div></div>
+
+<h2 id="linking-to-internal-pages">Linking to internal pages</h2>
+
+<p>When linking to internal pages, you can manually link to the pages like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[Icons](mydoc_icons.html)
+</code></pre></div></div>
+
+<p>However, if you change the file name, you’ll have to update all of your links.</p>
+:ET
