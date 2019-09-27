@@ -70,3 +70,7 @@ entries:
     - title: Sample 5
       url: /p1_sample5.html
       output: web, pdf
+
+    - title: Bernie
+      url: /bernie.html
+      output: web, pdf

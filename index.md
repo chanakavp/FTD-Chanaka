@@ -1,10 +1,10 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "Welcome to SPARK by Fortude"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: product1_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: This page will tell you what SPARK is about and explain you how to get to know it more.
 ---
 
 {% include note.html content="If you want to speak to Chanaka <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation"%}
@@ -20,3 +20,17 @@ First, download or clone the theme from the [Github repo](https://github.com/tom
 {% include links.html %}
 
 {% include note.html content="TEST" %}
+
+## Chanaka test heading
+Chanaka test text.
+
+### Chanaka test heading 2
+
+sdfsdf
+
+
+
+
+
+### Test head 3
+
