@@ -7,8 +7,6 @@ permalink: index.html
 summary: This page will tell you what SPARK is about and explain you how to get to know it more.
 ---
 
-{% include note.html content="If you want to speak to Chanaka <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation"%}
-
 Choose a topic from the left to find answers and get step-by-step instructions.
 
 Spark is a project tracking and cost management solution in the cloud. From project planning to reporting, Spark has got you and your team covered, helping you to create projects, CM Sheets and get meaningful data about your project and resources quickly.
@@ -27,3 +25,5 @@ Track and monitor revenue, cost, utilization, and profitability of projects.
 * Track expenses and approve CM Sheets.
 * Receive alerts and notifications for timely submissions and approvals.
 
+
+{% include note.html content="This is a sample note"%}
