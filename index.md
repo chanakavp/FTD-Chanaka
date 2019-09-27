@@ -25,5 +25,12 @@ Track and monitor revenue, cost, utilization, and profitability of projects.
 * Track expenses and approve CM Sheets.
 * Receive alerts and notifications for timely submissions and approvals.
 
+### Sample numbered list
+1. Delivering
+2. Solutions 
+3. That matter
+4. Infor
+5. Alliance
+6. Partner
 
 {% include note.html content="This is a sample note"%}
