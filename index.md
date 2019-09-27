@@ -1,5 +1,5 @@
 ---
-title: "Welcome to SPARK by Fortude"
+title: "Welcome to the Spark User Guide"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: product1_sidebar
@@ -9,28 +9,21 @@ summary: This page will tell you what SPARK is about and explain you how to get 
 
 {% include note.html content="If you want to speak to Chanaka <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation"%}
 
-## Build the Theme
+Choose a topic from the left to find answers and get step-by-step instructions.
 
-Follow these instructions to build the theme.
+Spark is a project tracking and cost management solution in the cloud. From project planning to reporting, Spark has got you and your team covered, helping you to create projects, CM Sheets and get meaningful data about your project and resources quickly.
 
-### 1. Download the theme
+## Keep track of your projects
+- Track and monitor projects from start to end.
+- Provide project cost information for strategic decision making.
 
-First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
+## Cost Management
 
-{% include links.html %}
+Track and monitor revenue, cost, utilization, and profitability of projects.
 
-{% include note.html content="TEST" %}
+## Streamlined Approvals
 
-## Chanaka test heading
-Chanaka test text.
-
-### Chanaka test heading 2
-
-sdfsdf
-
-
-
-
-
-### Test head 3
+* Create approval workflows and assign approvers.
+* Track expenses and approve CM Sheets.
+* Receive alerts and notifications for timely submissions and approvals.
 
