@@ -112,6 +112,6 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Cha 2
-      url: /p1_sample1.html
+    - title: Houses
+      url: /spark_houses.html
       output: web, pdf
