@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Spark Help TopNav
+topnav_title: Spark Documentation
 # this appears on the top navigation bar next to the home button
 
-site_title: Fortude Spark Help Title
+site_title: Spark Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Fortude
