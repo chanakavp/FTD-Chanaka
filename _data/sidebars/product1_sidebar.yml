@@ -7,7 +7,7 @@ entries:
   version: 
   folders:
 
-  - title:
+  - title: TEST
     output: pdf
     type: frontmatter
     folderitems:
@@ -20,8 +20,9 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: Introduction
     output: web, pdf
+
     folderitems:
     - title: Product 1 home
       url: /p1_landing_page.html
@@ -39,7 +40,7 @@ entries:
       url: /p1_sample3.html
       output: web, pdf
 
-  - title: Another heading CP
+  - title: Getting started
     output: web, pdf
 
     folderitems:
@@ -59,7 +60,7 @@ entries:
       url: /p1_sample7.html
       output: web, pdf
 
-  - title: Cha Heading
+  - title: Projects
     output: web, pdf
 
     folderitems:
@@ -73,4 +74,44 @@ entries:
 
     - title: Bernie
       url: /bernie.html
+      output: web, pdf
+
+  - title: Cost Management Sheet (CMS)
+    output: web, pdf
+
+    folderitems:
+    - title: Cha
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Master Data
+    output: web, pdf
+
+    folderitems:
+    - title: Cha 2
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Admin
+    output: web, pdf
+
+    folderitems:
+    - title: Cha 2
+      url: /p1_sample1.html
+      output: web, pdf
+
+  - title: Mobile app
+    output: web, pdf
+
+    folderitems:
+    - title: Cha 2
+      url: /p1_sample1.html
+      output: web, pdf
+
+  - title: FAQs
+    output: web, pdf
+
+    folderitems:
+    - title: Cha 2
+      url: /p1_sample1.html
       output: web, pdf
