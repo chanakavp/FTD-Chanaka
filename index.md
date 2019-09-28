@@ -32,5 +32,6 @@ Track and monitor revenue, cost, utilization, and profitability of projects.
 4. Infor
 5. Alliance
 6. Partner
+7. Fortude Fit
 
 {% include note.html content="This is a sample note"%}
