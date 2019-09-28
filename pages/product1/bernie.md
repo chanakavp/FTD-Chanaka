@@ -1,4 +1,4 @@
-d---
+---
 title: Bernie Loves Lucy
 keywords: sample
 summary: "This is just a sample topic..."
