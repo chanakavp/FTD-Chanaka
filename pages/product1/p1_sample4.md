@@ -2,9 +2,9 @@
 title: Chanaka Moved 2 new product(Product 1 -> 2)
 keywords: sample
 summary: "Mahesh"
-sidebar: product2_sidebar
+sidebar: product1_sidebar
 permalink: p1_sample4.html
-folder: product2
+folder: product1
 ---
 
 ## Sample Content
