@@ -13,7 +13,6 @@ search: exclude
 "keywords": "{{page.keywords}}",
 "url": "{{ page.url | remove: "/"}}",
 "summary": "{{page.summary | strip }}"
-"body": "{{ page.content }}",
 }
 {% unless forloop.last and site.posts.size < 1 %},{% endunless %}
 {% endunless %}
