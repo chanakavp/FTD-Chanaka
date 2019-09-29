@@ -37,7 +37,7 @@ entries:
       output: web, pdf
 
     - title: Sample 3
-      url: /p1_sample3.html
+      url: /dummy_page.html
       output: web, pdf
 
   - title: Getting started
@@ -97,7 +97,7 @@ entries:
 
     folderitems:
     - title: Cha 2
-      url: /p1_sample1.html
+      url: /Delivering.html
       output: web, pdf
 
   - title: Mobile app
@@ -105,7 +105,7 @@ entries:
 
     folderitems:
     - title: Cha 2
-      url: /p1_sample1.html
+      url: /Solutions.html
       output: web, pdf
 
   - title: FAQs
