@@ -76,7 +76,7 @@ entries:
       url: /bernie.html
       output: web, pdf
 
-  - title: Cost Management Sheet (CMS)
+  - title: Cost Management Sheet
     output: web, pdf
 
     folderitems:
