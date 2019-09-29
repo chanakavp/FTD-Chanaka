@@ -1,13 +1,11 @@
 ---
-title: Sample 5 Topic
+title: Noel Ashoka Tags
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: product2_sidebar
-permalink: p2_sample5.html
-simple_map: true
-map_name: usermap
-box_number: 5
-folder: product2
+sidebar: product1_sidebar
+permalink: p1_sample7.html
+folder: product1
+tags: [Noel, Ashoka]
 ---
 
 ## Sample Content
