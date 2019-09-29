@@ -5,6 +5,7 @@ summary: "This is just a sample topic..."
 sidebar: product1_sidebar
 permalink: p1_sample2.html
 folder: product1
+tags: [manula, menula, ashoka_jayanthi]
 ---
 
 ## Sample Content
