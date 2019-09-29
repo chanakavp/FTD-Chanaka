@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Spark User Guide"
+title: "Getting started with Spark"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: product1_sidebar
@@ -28,7 +28,7 @@ Track and monitor revenue, cost, utilization, and profitability of projects.
 ### Third level heading
 To perform that precedure, you must do this:
 1. Delivering
-2. Solutions 
+2. Solutions
 3. That matter
 4. Infor
 5. Alliance
