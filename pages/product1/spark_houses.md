@@ -1,7 +1,7 @@
 ---
-title: Fortude Houses
+title: Beehive Houses
 keywords: houses 
-summary: "This page explains Fortude Houses"
+summary: "This page explains SPARK Houses"
 sidebar: product1_sidebar
 permalink: spark_houses.html
 folder: product1
@@ -14,10 +14,10 @@ folder: product1
 ## What is a house??
 The House System is a traditional feature of many schools in commonwealth countries. ?Upon joining the school, each student is inducted into one of the houses. The house system is a time-tested method of grafting new students into the school culture, as well as expanding the boundaries of fellowship across all grades. We're leveraging this system to create our own fellowship.
 
-## What is a 'Fortude House'?
-A Fortude House is a cross integration team which represents Fortudites from different time zones, geographies, and teams, who will compete and win points for their houses.
+## What is a 'BH House'?
+A  House is a cross integration team which represents Fortudites from different time zones, geographies, and teams, who will compete and win points for their houses.
 
-## Why 'Fortude Houses'?
+## Why ' Houses'?
 To build connections within Fortudites across different time zones, geographies, and different teams by uniting Fortudites to 'Deliver Solutions that Matter.'
 Nurture team behaviors such as cooperation, commitment, ownership, and trust.
 Form an informal network to improve and encourage communication.
@@ -30,7 +30,7 @@ Here are some events and initiatives which could win you points for your house:
 
 * Quiz Night 
 * Games and activities in the Annual Trip
-* Fortude Fit challenges
+* SPARK Fit challenges
 * Yammer competitions
 
 You'll have many opportunities to score points for your house, so get involved!
@@ -52,6 +52,6 @@ You'll have many opportunities to score points for your house, so get involved!
 | Winner                   | 10 points                  |                                |
 | Points for Participation | 2 points                   |                                |
 
-Stay tuned for more events under 'Fortude Houses.'
+Stay tuned for more events under 'SPARK Houses.'
 
 For more information, please speak to Chamira Suraweera from the HR Team.
